@@ -1,0 +1,1 @@
+<script language="JavaScript" type="text/javascript" src="https://ezytronic.com.my/js/horizontal-pages-js.js"></script>

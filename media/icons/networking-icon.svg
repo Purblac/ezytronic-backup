@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="wireless" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 89 89" style="enable-background:new 0 0 89 89;" xml:space="preserve">
+<style type="text/css">
+	.wsn0{opacity:0.63;}
+	.wsn1{fill:none;stroke:url(#outer-wave_1_);stroke-width:0.5;stroke-miterlimit:10;}
+	.wsn2{fill:none;stroke:url(#middle-wave_1_);stroke-width:0.5;stroke-miterlimit:10;}
+	.wsn3{fill:none;stroke:url(#inner-wave_1_);stroke-width:0.5;stroke-miterlimit:10;}
+	.wsn4{fill:url(#WNSID_1_);}
+	.wsn5{fill:url(#WNSID_2_);}
+	.wsn6{fill:none;stroke:url(#WNSID_3_);stroke-width:0.5;stroke-miterlimit:10;}
+	.wsn7{fill:url(#XMLID_13_);}
+	.wsn8{fill:url(#XMLID_14_);}
+	.wsn9{fill:url(#XMLID_15_);}
+	.wsn10{fill:url(#XMLID_16_);}
+	.wsn11{fill:url(#XMLID_17_);}
+	.wsn12{fill:url(#XMLID_18_);}
+	.wsn13{fill:url(#XMLID_19_);}
+	.wsn14{fill:url(#XMLID_20_);}
+</style>
+<g id="wire-waves" class="wsn0">
+	<linearGradient id="outer-wave_1_" gradientUnits="userSpaceOnUse" x1="8.2296" y1="47.989" x2="81.0399" y2="72.6811">
+		<stop  offset="0.3039" style="stop-color:#E0363F"/>
+		<stop  offset="1" style="stop-color:#93171B"/>
+	</linearGradient>
+	<path id="outer-wave" class="wsn1" d="M84,59L46.7,37.5c-1.2-0.7-3.2-0.7-4.5,0L5.3,59c-1.2,0.7-1.2,1.9,0,2.6l37.2,21.5
+		c1.2,0.7,3.2,0.7,4.5,0l37-21.5C85.2,60.9,85.2,59.8,84,59"/>
+	<linearGradient id="middle-wave_1_" gradientUnits="userSpaceOnUse" x1="13.1879" y1="49.6705" x2="76.0815" y2="70.9996">
+		<stop  offset="0.3039" style="stop-color:#E0363F"/>
+		<stop  offset="1" style="stop-color:#93171B"/>
+	</linearGradient>
+	<path id="middle-wave" class="wsn2" d="M78.6,59.2L46.4,40.7c-1.1-0.6-2.8-0.6-3.8,0L10.7,59.2c-1.1,0.6-1.1,1.6,0,2.2L42.8,80
+		c1.1,0.6,2.8,0.6,3.8,0l31.9-18.6C79.6,60.8,79.6,59.8,78.6,59.2"/>
+	<linearGradient id="inner-wave_1_" gradientUnits="userSpaceOnUse" x1="18.1463" y1="51.352" x2="71.1232" y2="69.3181">
+		<stop  offset="0.3039" style="stop-color:#E0363F"/>
+		<stop  offset="1" style="stop-color:#93171B"/>
+	</linearGradient>
+	<path id="inner-wave" class="wsn3" d="M73.2,59.4l-27-15.6c-0.9-0.5-2.3-0.5-3.2,0L16.1,59.4c-0.9,0.5-0.9,1.4,0,1.9l27,15.6
+		c0.9,0.5,2.3,0.5,3.2,0l26.9-15.6C74.1,60.8,74.1,59.9,73.2,59.4"/>
+</g>
+<g id="chip-icon">
+	<linearGradient id="WNSID_1_" gradientUnits="userSpaceOnUse" x1="59.3634" y1="49.9129" x2="42.3011" y2="61.3187">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#BEC7D7"/>
+	</linearGradient>
+	<path class="wsn4" d="M68.8,59.3c0-0.3-0.2-0.6-0.5-0.8L45.9,45.5c-0.7-0.4-1.9-0.4-2.7,0L21,58.5c-0.4,0.2-0.6,0.5-0.5,0.8
+		c0,0,0,0.1,0,0.1c0,0,0,0.1,0,0.1c0,0,0,0.1,0,0.1c0,0,0,0.1,0,0.1c0,0,0,0.1,0,0.1c0,0,0,0.1,0,0.1c0,0,0,0.1,0,0.1
+		c0,0,0,0.1,0,0.1c0,0,0,0.1,0,0.1c0,0.3,0.2,0.6,0.5,0.8L43.4,74c0.7,0.4,1.9,0.4,2.7,0L68.3,61c0.4-0.2,0.6-0.5,0.5-0.8
+		c0,0,0-0.1,0-0.1c0,0,0-0.1,0-0.1c0,0,0-0.1,0-0.1c0,0,0-0.1,0-0.1c0,0,0-0.1,0-0.1c0,0,0-0.1,0-0.1c0,0,0-0.1,0-0.1
+		c0,0,0-0.1,0-0.1C68.8,59.4,68.8,59.3,68.8,59.3z"/>
+	<linearGradient id="WNSID_2_" gradientUnits="userSpaceOnUse" x1="43.2388" y1="58.772" x2="62.0104" y2="65.1381">
+		<stop  offset="0.2146" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C2C7D7"/>
+	</linearGradient>
+	<path class="wsn5" d="M68.3,58.5L45.9,45.5c-0.7-0.4-1.9-0.4-2.7,0L21,58.5c-0.7,0.4-0.7,1.1,0,1.6l22.4,12.9c0.7,0.4,1.9,0.4,2.7,0
+		L68.3,60C69,59.6,69,58.9,68.3,58.5"/>
+	<linearGradient id="WNSID_3_" gradientUnits="userSpaceOnUse" x1="31.5151" y1="54.7962" x2="57.7544" y2="63.6947">
+		<stop  offset="0" style="stop-color:#EDF5F2"/>
+		<stop  offset="1" style="stop-color:#B1B6BC"/>
+	</linearGradient>
+	<path class="wsn6" d="M58.6,58.8l-13.3-7.7c-0.4-0.3-1.2-0.3-1.6,0l-13.2,7.7c-0.4,0.3-0.4,0.7,0,0.9l13.3,7.7
+		c0.4,0.3,1.2,0.3,1.6,0l13.2-7.7C59.1,59.5,59.1,59,58.6,58.8"/>
+</g>
+<g id="wireless-icon">
+	<linearGradient id="XMLID_13_" gradientUnits="userSpaceOnUse" x1="13.2713" y1="27.8476" x2="38.3829" y2="47.6539">
+		<stop  offset="0" style="stop-color:#E0363F"/>
+		<stop  offset="0.2358" style="stop-color:#93171B"/>
+		<stop  offset="0.6307" style="stop-color:#93171B"/>
+		<stop  offset="1" style="stop-color:#720714"/>
+	</linearGradient>
+	<path id="XMLID_11_" class="wsn7" d="M42.1,46.7L42.1,46.7L42.1,46.7c0.8-0.2,1.7,0,2.6,0.6c2.5,1.4,4.5,4.9,4.5,7.6
+		c0,1.1-0.3,1.9-0.8,2.4l0,0l0,0c-0.3,0.3-0.9,0.6-1.2,0.7l-1.5,0.8l-6.2-10.7l1.7-0.9C41.4,46.9,41.7,46.8,42.1,46.7z"/>
+	<linearGradient id="XMLID_14_" gradientUnits="userSpaceOnUse" x1="19.2152" y1="20.3116" x2="44.3268" y2="40.1179">
+		<stop  offset="0" style="stop-color:#E0363F"/>
+		<stop  offset="0.2358" style="stop-color:#93171B"/>
+		<stop  offset="0.6307" style="stop-color:#93171B"/>
+		<stop  offset="1" style="stop-color:#720714"/>
+	</linearGradient>
+	<path id="XMLID_10_" class="wsn8" d="M34.4,33.8c2.1-1.1,5.9-2,10.9,0.8c5.5,3,9.6,9,11.9,13.1c1.2,2.1,1,4.4-0.5,4.7l-0.8,0.4
+		l-2,1.1L41.4,39.6c-1.5-0.1-2.8,0.3-3.6,0.7c-0.9,0.5-2.2-0.2-3.2-1.6l0,0c-0.4-0.5-0.6-1.1,0.3-2.3l-3.5-0.7L34.4,33.8z"/>
+	<linearGradient id="XMLID_15_" gradientUnits="userSpaceOnUse" x1="23.7218" y1="14.5978" x2="48.8334" y2="34.4041">
+		<stop  offset="0" style="stop-color:#E0363F"/>
+		<stop  offset="0.2358" style="stop-color:#93171B"/>
+		<stop  offset="0.6307" style="stop-color:#93171B"/>
+		<stop  offset="1" style="stop-color:#720714"/>
+	</linearGradient>
+	<path id="XMLID_9_" class="wsn9" d="M27.7,21.5c3.1-1.7,9.2-3.3,17.6,1.1c9.2,4.8,15.6,14,18.7,19.4c1.2,2.1,1,4.4-0.4,4.8
+		c-0.1,0-0.9,0.5-1,0.5l-2.1,1.2L50.6,35L37,26.8c-2.9,0-5.1,0.8-6.4,1.6c-0.9,0.5-2.3-0.2-3.3-1.7l0,0c0,0,0-0.1,0-0.1l-0.9,0
+		l-1.8-2.9l1.7-1.3L27.7,21.5z"/>
+	<linearGradient id="XMLID_16_" gradientUnits="userSpaceOnUse" x1="28.8046" y1="8.1536" x2="53.9161" y2="27.9599">
+		<stop  offset="0" style="stop-color:#E0363F"/>
+		<stop  offset="0.2358" style="stop-color:#93171B"/>
+		<stop  offset="0.6307" style="stop-color:#93171B"/>
+		<stop  offset="1" style="stop-color:#720714"/>
+	</linearGradient>
+	<path id="XMLID_8_" class="wsn10" d="M17.9,11l2.5-1.8c3.5-2.4,11.8-5.9,25.2,0.9c0.1,0.1,0.3,0.1,0.4,0.2
+		c14.1,7.4,23,20.2,26.8,26.8c1,1.6,1.2,3.1,0.5,4l-0.7,0.7L72.2,42c-0.1,0.1-0.8,0.4-1,0.5l-2.3,1.2l-4.1-5.6L48.1,18.8l-9.4-5
+		C31,11.6,26,13.9,23.8,15.4c-0.9,0.6-2.2-0.1-3.2-1.5l0,0c-0.5-0.7-0.8-1.5-0.9-2.2L17.9,11z"/>
+	<g>
+		<g id="XMLID_6_">
+			<linearGradient id="XMLID_17_" gradientUnits="userSpaceOnUse" x1="25.2012" y1="9.5311" x2="77.9001" y2="49.851">
+				<stop  offset="0.3039" style="stop-color:#E0363F"/>
+				<stop  offset="1" style="stop-color:#93171B"/>
+			</linearGradient>
+			<path id="XMLID_7_" class="wsn11" d="M18.1,15.7c0.9,1.4,2.3,2.1,3.2,1.5c2.8-1.9,9.9-4.9,21.4,1.2c0.1,0.1,0.2,0.1,0.4,0.2
+				C55,25,62.4,36,65.4,41.2c1,1.7,2.5,2.7,3.7,2.4l0,0c1.4-0.4,1.7-2.7,0.4-4.8C65.7,32.3,57,19.6,43.1,12.2
+				c-0.1-0.1-0.3-0.1-0.4-0.2c-13.2-6.8-21.4-3.3-24.8-1C16.8,11.7,16.9,13.9,18.1,15.7L18.1,15.7z"/>
+		</g>
+		<g id="XMLID_4_">
+			<linearGradient id="XMLID_18_" gradientUnits="userSpaceOnUse" x1="20.2117" y1="16.0524" x2="72.9106" y2="56.3724">
+				<stop  offset="0.3039" style="stop-color:#E0363F"/>
+				<stop  offset="1" style="stop-color:#93171B"/>
+			</linearGradient>
+			<path id="XMLID_5_" class="wsn12" d="M24.8,28.3c0.9,1.5,2.3,2.2,3.2,1.7c2.4-1.3,7.5-3,14.5,0.8c0.1,0,0.2,0.1,0.2,0.1
+				c7,3.9,11.9,11.1,14.2,15.2c0.9,1.7,2.4,2.6,3.6,2.3h0c1.4-0.4,1.6-2.6,0.4-4.7c-3.1-5.3-9.4-14.5-18.4-19.3
+				c-8.7-4.6-14.9-2.5-17.8-0.9C23.5,24.2,23.6,26.5,24.8,28.3L24.8,28.3z"/>
+		</g>
+		<g id="XMLID_2_">
+			<linearGradient id="XMLID_19_" gradientUnits="userSpaceOnUse" x1="15.7035" y1="21.9447" x2="68.4024" y2="62.2647">
+				<stop  offset="0.3039" style="stop-color:#E0363F"/>
+				<stop  offset="1" style="stop-color:#93171B"/>
+			</linearGradient>
+			<path id="XMLID_3_" class="wsn13" d="M53.7,53.9L53.7,53.9c1.4-0.3,1.7-2.5,0.5-4.7c-2.3-4-6.3-10-11.7-13
+				c-5-2.8-8.6-1.9-10.8-0.8c-1.2,0.6-1.1,3,0.2,4.9l0,0c1,1.4,2.3,2.1,3.2,1.6c1.5-0.7,4-1.4,7.3,0.5c3.5,2,6.3,6.2,7.9,9
+				C51.2,53.1,52.6,54.1,53.7,53.9z"/>
+		</g>
+		<linearGradient id="XMLID_20_" gradientUnits="userSpaceOnUse" x1="10.4221" y1="28.8476" x2="63.121" y2="69.1676">
+			<stop  offset="0.3039" style="stop-color:#E0363F"/>
+			<stop  offset="1" style="stop-color:#93171B"/>
+		</linearGradient>
+		<path id="XMLID_1_" class="wsn14" d="M38.1,50.8c0,2.7,1.9,6.1,4.4,7.5c2.5,1.5,4.5,0.5,4.5-2.3c0-2.8-2-6.2-4.5-7.6
+			C40.1,47,38.1,48.1,38.1,50.8z"/>
+	</g>
+</g>
+</svg>

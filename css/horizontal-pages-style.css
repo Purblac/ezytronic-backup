@@ -1,0 +1,453 @@
+body {
+    overflow-x: hidden;
+}
+
+#mouse-circle {
+    position: absolute;
+}
+
+/* Nav Bar */
+header.site-header.sticky-top {
+    margin-top: 0;
+	width: 100%;
+}
+
+.sticky-top {
+    position: -webkit-fixed;
+    position: fixed;
+    top: 0;
+    z-index: 1020;
+	width: 100%;
+}
+
+.sticky-top.hidden {
+    top: -90px;
+}
+
+
+/* ul.ms-auto {
+    margin-left: 85.675px!important;
+} */
+
+nav.navbar.navbar-expand-lg.sticky-top.ezy-nav {
+    width: 100%;
+	transition: .5s;
+}
+
+.ezy-nav.fixed{
+	background: #ffffff;
+	box-shadow: 0 1px 4px #0000003d;
+	transition: .5s;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+	ul.ms-auto {
+		margin-left: 61.325px!important;
+	}
+}
+
+/************************ Case Study Page Start ************************/
+/* Header Section */
+.header-sec{
+	height: 60vh;
+}
+
+.logistic-overlay {
+    background-image: url("../media/logistic-hd-bg.jpg");
+	position: relative;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+.overlay-layer{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+	background: rgb(0,0,0);
+	background: -moz-linear-gradient(360deg, rgba(0,0,0,0.3956933115042892) 0%, rgba(0,0,0,0.8970938717283788) 100%);
+	background: -webkit-linear-gradient(360deg, rgba(0,0,0,0.3956933115042892) 0%, rgba(0,0,0,0.8970938717283788) 100%);
+	background: linear-gradient(360deg, rgba(0,0,0,0.3956933115042892) 0%, rgba(0,0,0,0.8970938717283788) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);
+}
+
+.overlay-layer-invert{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+	background: rgb(0,0,0);
+	background: -moz-linear-gradient(180deg, rgba(0,0,0,0.3956933115042892) 0%, rgba(0,0,0,0.8970938717283788) 100%);
+	background: -webkit-linear-gradient(180deg, rgba(0,0,0,0.3956933115042892) 0%, rgba(0,0,0,0.8970938717283788) 100%);
+	background: linear-gradient(180deg, rgba(0,0,0,0.3956933115042892) 0%, rgba(0,0,0,0.8970938717283788) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);
+}
+
+.mid-wrapper{
+	padding:6% 6%;
+	}
+
+.logistic-overlay-mid{
+	height:80vh;
+	background-image: url("../media/logistic-hd-bg02.jpg");
+	position: relative;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+.hd-content-sec {
+	padding: 12% 13% 0 13%;
+}
+
+.contact-section{
+	height:100vh;
+	position: relative;
+	background: #000;
+}
+
+/* CS About Section */
+.cs-about-sec {
+    padding: 2.5% 8%;
+    position: relative;
+    z-index: 3;
+    background: #ffffff;
+}
+
+.cs-abt-col {
+	margin: auto;
+}
+
+/* CS Problem Section */
+.cs-prob-sec{
+	padding: 2.5% 8% 8% 8%;
+	/* background: #000; */
+}
+
+/* CS Next Section */
+.cs-next-sec {
+    padding: 0 8% 12.5% 8%;
+    position: relative;
+    z-index: 3;
+    background: #ffffff;
+}
+
+.cs-next-name{
+	font-size: 5rem;
+    background: linear-gradient(to right, #000 50%, #d1d7e5 50%);
+    background-size: 200% 100%;
+	background-position:right bottom;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+	transition:all .5s ease;
+}
+
+.cs-next-name.hovered{
+    background-position:left bottom!important;
+	transition:all 1.5s ease;
+}
+
+.next-btn-sec{
+	margin-top: 40px;
+	transition: 0.5s ease-in-out;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.next-btn-sec:hover {
+    transform: translateY(-10px);
+	transition: 0.5s ease-in-out;
+}
+
+.next-cs-btn{
+	text-decoration: none;
+	font-weight: 500;
+	color: #000;
+}
+
+.next-cs-btn:hover{
+	color: #000;
+}
+
+.next-cs-btn i.bi.bi-chevron-right {
+    font-size: 14px;
+}
+
+
+/* Content */
+
+h3.focus-hd {
+    font-size: 32px;
+	margin-bottom: 32px;
+}
+
+h2.cs-industry{
+	font-size: 5rem;
+}
+
+.about-client-img{
+	height: 400px;
+	width: auto;
+	display: flex;
+}
+
+.contact-col a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#contact-logo path#fb-logo, #contact-logo path#google-logo, #contact-logo .wl0{
+	transition: .5s;
+	fill:#ffffff;
+}
+
+#contact-logo:hover path#fb-logo, #contact-logo:hover path#google-logo, #contact-logo:hover .wl0{
+    fill: #ed2e39;
+	transform: translateY(-5px);
+	transition: .5s;
+}
+
+h2.contact-txt {
+    background-color: #C62629;
+    background: linear-gradient(to right, #ed2e39 50%, #ffffff 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    transition: all .5s ease;
+}
+
+.contact-sec {
+    background-color: #000;
+}
+
+a.contact-btn {
+    border: 3px solid #fff;
+    padding: 1.5% 2%;
+    text-decoration: none;
+    color: #fff;
+    background: linear-gradient(to right, #ed2e39 50%, #ffffff00 50%);
+    background-size: 201% 100%;
+    background-position: right bottom;
+    transition: all .5s ease;
+    cursor: pointer;
+}
+
+a.contact-btn:hover {
+    border: 3px solid #ed2e39;
+}
+
+.solid-line{
+	border-top: 1px solid #d1d7e5;
+	margin-bottom: 12.5%
+}
+
+
+/* Responsive */
+
+
+@media only screen and (max-width: 991px){
+	ul.ms-auto {
+		margin-left: 0!important;
+	}
+	
+	.hd-content-sec {
+		padding: 36% 13% 0 13%;
+	}
+	
+	h2.cs-industry {
+		font-size: 3rem;
+	}
+	
+	.cs-abt-col h3 {
+		text-align: center;
+	}
+	.cs-about-sec {
+		padding: 8% 8% 2.5% 8%;
+	}
+	
+	.cs-prob-sec {
+		padding: 5% 8% 8% 8%;
+	}
+	
+	.cs-next-name{
+		font-size: 1.75rem;
+	}
+	
+	.about-client-img {
+		height: 200px;
+		margin-bottom: 25px;
+	}
+	
+	.solid-line {
+		margin-bottom: 20%;
+	}
+	
+	.cs-next-sec {
+		padding: 0 8% 20% 8%;
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+	
+	.cs-next-name {
+		font-size: 2.5rem;
+	}
+	
+}
+
+@media only screen and (min-width: 480px) and (max-width: 991px){
+	
+	.hd-content-sec {
+		padding: 18% 13% 0 13%;
+	}
+	
+}
+
+
+
+/************************ Privacy Policy Page Start ************************/
+
+.pp-sec {
+    padding: 8% 8%;
+    position: relative;
+    z-index: 3;
+    background: #ffffff;
+}
+
+.pp-details h2 {
+    font-size: 2rem;
+}
+
+.pp-details h3 {
+    font-size: 1.5rem;
+    margin-top: 15px;
+}
+
+.pp-row{
+	margin-top:80px;
+}
+
+.pp-details{
+	border-left:1px solid #d1d7e5;
+	padding-left: 45px;
+}
+
+.pp-details ::marker {
+    color: #C62629;
+}
+
+.pp-details li {
+    font-family: 'DM Sans';
+}
+
+.divide-sec{
+	margin-top: 45px;
+	padding-top: 25px;
+	border-top:1px solid #d1d7e5;
+}
+
+.flex-div{
+	display: flex;
+	align-items: flex-start;
+}
+
+.side-sticky-nav {
+    position: sticky;
+	top: 7rem;
+}
+
+.side-sticky-nav a{
+	text-decoration: none;
+	color: #000000;
+	line-height: 2.25em;
+	opacity: 0.6;
+}
+
+.side-sticky-nav a:hover{
+	font-weight: 500;
+	opacity: 1.0;
+}
+
+
+.side-sticky-nav ul {
+    list-style-type: none;
+}
+
+.side-sticky-nav ol, .side-sticky-nav ul {
+    padding-left: 0.75rem;
+}
+
+
+@media only screen and (max-width: 991px){
+	
+	.pp-details{
+		border-left:none;
+		border-top:1px solid #d1d7e5;
+		padding-left: 0px;
+		padding-top: 35px;
+	}
+	
+	.pp-details p {
+		font-size: 14px;
+	}
+	
+	.pp-sec {
+		padding: 24% 10%;
+	}
+	
+	.pp-row {
+		margin-top: 45px;
+	}
+	
+	.side-sticky-nav a {
+		line-height: 2.0em;
+		font-size: 15px;
+	}
+	
+	.pp-details h2 {
+		font-size: 1.25rem;
+	}
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1440px){
+	.side-sticky-nav a {
+		line-height: 1.75em;
+		font-size: 12px;
+	}
+	
+	.side-sticky-nav ol, .side-sticky-nav ul {
+		padding-left: 0px;
+	}
+	
+		
+	.pp-sec {
+		padding: 10% 8%;
+	}
+	
+}
+
+/* @media only screen and (min-width: 1400px) and (max-width: 1440px){
+	ul.ms-auto {
+		margin-left: 286px!important;
+	}
+} */
+
+@media only screen and (min-width: 480px) and (max-width: 991px){
+	
+	.pp-sec {
+		padding: 18% 10%;
+	}
+	
+}

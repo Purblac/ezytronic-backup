@@ -1,0 +1,676 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSS Link files-->
+    <?php include 'css-linked.php';?>
+    <title>Thank You | Ezytronic - Scale up every business with IT Solutions & Services</title>
+	
+	<!-- Analytics code -->
+    <?php include 'performance-tracking.php';?>
+	
+	<style>
+	
+	
+	g#letterMid {
+		animation: fadeUp 1.0s ease;
+	}	
+	
+	</style>
+	
+  </head>
+  
+  <body>
+
+	<!-- Preloader & Cursor-->
+		<?php include 'mouse-cursor.php';?>
+		
+	<!-- NavBar -->
+	<header class="site-header sticky-top py-1">
+	<?php include 'navigation-bar-gen.php';?>
+	</header>
+	<!-- Nav End -->
+	 
+	<!-- Content Start-->
+		<div class="container-fluid full-sc thankyou-sec">
+			<div class="thankyou-icon">
+				<svg version="1.1" id="mail" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="325px" height="325px" x="0px" y="0px"
+	 viewBox="0 0 89 89" style="enable-background:new 0 0 89 89;" xml:space="preserve" aria-hidden="true">
+<style type="text/css">
+	.miid0{fill:url(#MIID_1_);}
+	.miid1{fill:#FFFFFF;}
+	.miid2{fill:url(#MIID_2_);}
+	.miid3{fill:url(#MIID_3_);}
+	.miid4{fill:url(#MIID_4_);}
+	.miid5{fill:url(#MIID_5_);}
+	.miid6{fill:url(#MIID_6_);}
+	.miid7{fill:url(#MIID_7_);}
+	.miid8{fill:url(#MIID_8_);}
+	.miid9{fill:url(#MIID_9_);}
+	.miid10{fill:url(#MIID_10_);}
+	.miid11{fill:url(#MIID_11_);}
+	.miid12{fill:url(#MIID_12_);}
+	.miid13{fill:url(#MIID_13_);}
+	.miid14{fill:url(#MIID_14_);}
+	.miid15{fill:url(#MIID_15_);}
+	.miid16{fill:url(#MIID_16_);}
+	.miid17{fill:url(#MIID_17_);}
+	.miid18{fill:url(#MIID_18_);}
+	.miid19{fill:url(#MIID_19_);}
+	.miid20{fill:url(#MIID_20_);}
+	.miid21{fill:url(#MIID_21_);}
+	.miid22{fill:url(#MIID_22_);}
+	.miid23{fill:url(#MIID_23_);}
+	.miid24{fill:url(#MIID_24_);}
+	.miid25{fill:url(#MIID_25_);}
+	.miid26{fill:url(#MIID_26_);}
+	.miid27{fill:url(#MIID_27_);}
+	.miid28{fill:url(#MIID_28_);}
+	.miid29{fill:url(#MIID_29_);}
+	.miid30{fill:url(#MIID_30_);}
+	.miid31{fill:url(#MIID_31_);}
+	.miid32{fill:url(#MIID_32_);}
+	.miid33{fill:url(#MIID_33_);}
+	.miid34{fill:url(#MIID_34_);}
+	.miid35{fill:url(#MIID_35_);}
+	.miid36{fill:url(#MIID_36_);}
+	.miid37{fill:url(#MIID_37_);}
+	.miid38{fill:url(#MIID_38_);}
+	.miid39{fill:url(#MIID_39_);}
+	.miid40{fill:url(#MIID_40_);}
+	.miid41{fill:url(#MIID_41_);}
+	.miid42{fill:url(#MIID_42_);}
+	.miid43{fill:url(#MIID_43_);}
+	.miid44{fill:url(#MIID_44_);}
+	.miid45{fill:url(#MIID_45_);}
+	.miid46{fill:url(#MIID_46_);}
+	.miid47{fill:url(#MIID_47_);}
+	.miid48{fill:url(#MIID_48_);}
+	.miid49{fill:url(#MIID_49_);}
+	.miid50{fill:url(#MIID_50_);}
+	.miid51{fill:url(#MIID_51_);}
+	.miid52{fill:url(#MIID_52_);}
+	.miid53{fill:url(#MIID_53_);}
+	.miid54{fill:url(#MIID_54_);}
+	.miid55{fill:url(#MIID_55_);}
+	.miid56{fill:url(#MIID_56_);}
+	.miid57{fill:url(#MIID_57_);}
+	.miid58{fill:url(#MIID_58_);}
+	.miid59{fill:url(#MIID_59_);}
+	.miid60{fill:url(#MIID_60_);}
+	.miid61{fill:url(#MIID_61_);}
+	.miid62{opacity:0.5;}
+	.miid63{fill:url(#MIID_62_);}
+	.miid64{fill:url(#MIID_63_);}
+	.miid65{fill:url(#MIID_64_);}
+	.miid66{fill:url(#MIID_65_);}
+	.miid67{opacity:0.2;enable-background:new    ;}
+	.miid68{fill:url(#MIID_66_);}
+	.miid69{fill:url(#MIID_67_);}
+	.miid70{fill:url(#MIID_68_);}
+	.miid71{fill:url(#MIID_69_);}
+	.miid72{fill:url(#MIID_70_);}
+	.miid73{fill:url(#MIID_71_);}
+	.miid74{fill:url(#MIID_72_);}
+	.miid75{fill:url(#MIID_73_);}
+	.miid76{fill:url(#MIID_74_);}
+	.miid77{fill:url(#MIID_75_);}
+	.miid78{fill:url(#MIID_76_);}
+	.miid79{fill:url(#MIID_77_);}
+	.miid80{opacity:0.55;}
+	.miid81{fill:url(#MIID_78_);}
+	.miid82{opacity:0.48;}
+</style>
+<g id="envelopeBack">
+	
+		<linearGradient id="MIID_1_" gradientUnits="userSpaceOnUse" x1="4678.8486" y1="638.5992" x2="4678.8486" y2="688.0455" gradientTransform="matrix(-0.866 0.5 0 -1.1547 4096.3828 -1536.3262)">
+		<stop  offset="0.3039" style="stop-color:#E0363F"/>
+		<stop  offset="1" style="stop-color:#93171B"/>
+	</linearGradient>
+	<path class="miid0" d="M20,44.7L20,44.7L42.6,9.2c1.1-1.7,2.7-2.6,3.8-2.2L69,16.4l0,0c0.3,0.1,0.4,0.4,0.4,0.8v35.1
+		c0,0.8-0.6,1.8-1.3,2.2L20.9,81.9c-0.7,0.4-1.3,0.1-1.3-0.7V46.1C19.6,45.6,19.7,45.2,20,44.7z"/>
+</g>
+<g id="letterMid">
+	<polygon class="miid1" points="26,77 63,55.6 63,12.8 26,34.2 	"/>
+	<g>
+		
+			<linearGradient id="MIID_2_" gradientUnits="userSpaceOnUse" x1="74.3536" y1="24.741" x2="29.4605" y2="49.3202" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid2" points="40.6,48 43.6,46.3 43.6,47.2 40.6,48.9 		"/>
+		
+			<linearGradient id="MIID_3_" gradientUnits="userSpaceOnUse" x1="76.6153" y1="28.8719" x2="31.7222" y2="53.4511" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid3" points="41.9,40.9 38.9,42.6 38.9,41.7 41.9,40 		"/>
+		
+			<linearGradient id="MIID_4_" gradientUnits="userSpaceOnUse" x1="74.1757" y1="24.416" x2="29.2826" y2="48.9952" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid4" points="41.7,45.5 41.7,46.4 38.4,48.3 38.4,47.4 		"/>
+		
+			<linearGradient id="MIID_5_" gradientUnits="userSpaceOnUse" x1="75.8245" y1="27.4275" x2="30.9314" y2="52.0067" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid5" points="38.3,44.8 38.3,43.9 42.4,41.5 42.4,42.4 		"/>
+		
+			<linearGradient id="MIID_6_" gradientUnits="userSpaceOnUse" x1="73.7993" y1="23.7287" x2="28.9062" y2="48.3078" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid6" points="35.8,43.5 35.8,44.4 33,45.9 33,45 		"/>
+		
+			<linearGradient id="MIID_7_" gradientUnits="userSpaceOnUse" x1="77.7599" y1="30.9627" x2="32.8668" y2="55.5418" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid7" points="45.6,40.5 43.3,41.9 43.3,41 45.6,39.7 		"/>
+		
+			<linearGradient id="MIID_8_" gradientUnits="userSpaceOnUse" x1="75.143" y1="26.1828" x2="30.2499" y2="50.762" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid8" points="39.8,45.7 39.8,44.8 41.2,44 41.2,44.9 		"/>
+		
+			<linearGradient id="MIID_9_" gradientUnits="userSpaceOnUse" x1="75.6407" y1="27.0919" x2="30.7476" y2="51.6711" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid9" points="44.5,46.7 44.5,45.8 45.2,45.4 45.2,46.3 		"/>
+		
+			<linearGradient id="MIID_10_" gradientUnits="userSpaceOnUse" x1="73.7351" y1="23.6112" x2="28.8419" y2="48.1904" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid10" points="38.9,45.3 38.9,46.2 36.1,47.8 36.1,46.9 		"/>
+		
+			<linearGradient id="MIID_11_" gradientUnits="userSpaceOnUse" x1="76.0785" y1="27.8916" x2="31.1854" y2="52.4708" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid11" points="42.6,45.9 42.6,45 45.6,43.3 45.6,44.1 		"/>
+		
+			<linearGradient id="MIID_12_" gradientUnits="userSpaceOnUse" x1="73.6032" y1="23.3705" x2="28.7101" y2="47.9496" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid12" points="37.4,44.4 37.4,45.3 33.9,47.3 33.9,46.4 		"/>
+		
+			<linearGradient id="MIID_13_" gradientUnits="userSpaceOnUse" x1="71.5165" y1="19.5593" x2="26.6234" y2="44.1384" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid13" points="34.7,52.3 34.7,51.4 37.5,49.8 37.5,50.7 		"/>
+		
+			<linearGradient id="MIID_14_" gradientUnits="userSpaceOnUse" x1="72.9255" y1="22.1305" x2="28.0324" y2="46.7096" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid14" points="39.8,49.4 38.4,50.2 38.4,49.3 39.8,48.5 		"/>
+		
+			<linearGradient id="MIID_15_" gradientUnits="userSpaceOnUse" x1="75.1747" y1="26.2408" x2="30.2816" y2="50.82" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid15" points="38.1,43.1 36.6,43.9 36.6,43 38.1,42.2 		"/>
+		
+			<linearGradient id="MIID_16_" gradientUnits="userSpaceOnUse" x1="81.1014" y1="37.0658" x2="36.2083" y2="61.6449" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid16" points="50.7,36.7 52.2,35.8 52.2,36.7 50.7,37.6 		"/>
+		
+			<linearGradient id="MIID_17_" gradientUnits="userSpaceOnUse" x1="72.4355" y1="21.2376" x2="27.5423" y2="45.8168" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid17" points="32.2,46.4 30.8,47.2 30.8,46.3 32.2,45.5 		"/>
+		
+			<linearGradient id="MIID_18_" gradientUnits="userSpaceOnUse" x1="69.1935" y1="15.3162" x2="24.3004" y2="39.8954" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid18" points="28.1,55.9 28.1,55.1 34,51.7 34,52.6 		"/>
+		
+			<linearGradient id="MIID_19_" gradientUnits="userSpaceOnUse" x1="79.4024" y1="33.9624" x2="34.5093" y2="58.5416" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid19" points="49.9,43.6 49.9,42.7 55.8,39.4 55.8,40.2 		"/>
+		
+			<linearGradient id="MIID_20_" gradientUnits="userSpaceOnUse" x1="78.4423" y1="32.2089" x2="33.5492" y2="56.7881" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid20" points="46.8,40.8 48.2,40 48.2,40.9 46.8,41.7 		"/>
+		
+			<linearGradient id="MIID_21_" gradientUnits="userSpaceOnUse" x1="78.6739" y1="32.6319" x2="33.7808" y2="57.2111" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid21" points="46.5,42.8 52.7,39.3 52.7,40.1 46.5,43.6 		"/>
+		
+			<linearGradient id="MIID_22_" gradientUnits="userSpaceOnUse" x1="76.8042" y1="29.217" x2="31.9111" y2="53.7961" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid22" points="42.1,43.5 46,41.3 46,42.2 42.1,44.4 		"/>
+		
+			<linearGradient id="MIID_23_" gradientUnits="userSpaceOnUse" x1="76.9605" y1="29.5024" x2="32.0674" y2="54.0816" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid23" points="46.1,45.8 46.1,44.9 49.2,43.1 49.2,44 		"/>
+		
+			<linearGradient id="MIID_24_" gradientUnits="userSpaceOnUse" x1="71.8537" y1="20.1751" x2="26.9606" y2="44.7543" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid24" points="33,47.8 30.8,49 30.8,48.1 33,46.9 		"/>
+		
+			<linearGradient id="MIID_25_" gradientUnits="userSpaceOnUse" x1="79.5401" y1="34.2139" x2="34.6469" y2="58.793" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid25" points="49.8,38.1 46.5,40 46.5,39.2 49.8,37.2 		"/>
+		
+			<linearGradient id="MIID_26_" gradientUnits="userSpaceOnUse" x1="71.6231" y1="19.7538" x2="26.73" y2="44.3329" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid26" points="35.2,48.3 30.8,50.8 30.8,49.9 35.2,47.4 		"/>
+		
+			<linearGradient id="MIID_27_" gradientUnits="userSpaceOnUse" x1="81.895" y1="38.5153" x2="37.0019" y2="63.0945" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid27" points="54.1,36.7 55.5,35.8 55.5,36.7 54.1,37.5 		"/>
+		
+			<linearGradient id="MIID_28_" gradientUnits="userSpaceOnUse" x1="80.1918" y1="35.4043" x2="35.2987" y2="59.9834" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid28" points="49.3,39.4 53.2,37.2 53.2,38 49.3,40.3 		"/>
+		
+			<linearGradient id="MIID_29_" gradientUnits="userSpaceOnUse" x1="73.116" y1="22.4806" x2="28.2229" y2="47.0598" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid29" points="31.7,43.7 28.8,45.3 28.8,44.5 31.7,42.8 		"/>
+		
+			<linearGradient id="MIID_30_" gradientUnits="userSpaceOnUse" x1="76.1323" y1="27.9898" x2="31.2392" y2="52.569" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid30" points="33.2,36.5 28.8,39 28.8,38.1 33.2,35.6 		"/>
+		
+			<linearGradient id="MIID_31_" gradientUnits="userSpaceOnUse" x1="75.4417" y1="26.7285" x2="30.5486" y2="51.3077" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.1153" style="stop-color:#F8F9FA"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid31" points="34.7,38.1 28.8,41.5 28.8,40.6 34.7,37.2 		"/>
+		
+			<linearGradient id="MIID_32_" gradientUnits="userSpaceOnUse" x1="71.4154" y1="19.3744" x2="26.5223" y2="43.9536" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid32" points="37.6,48.8 30.8,52.6 30.8,51.7 37.6,47.9 		"/>
+		
+			<linearGradient id="MIID_33_" gradientUnits="userSpaceOnUse" x1="70.4362" y1="17.5859" x2="25.5429" y2="42.165" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid33" points="40.6,57.3 43.6,55.6 43.6,56.5 40.6,58.2 		"/>
+		
+			<linearGradient id="MIID_34_" gradientUnits="userSpaceOnUse" x1="72.7189" y1="21.7553" x2="27.8258" y2="46.3344" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid34" points="41.9,50.1 38.9,51.8 38.9,51 41.9,49.3 		"/>
+		
+			<linearGradient id="MIID_35_" gradientUnits="userSpaceOnUse" x1="70.2793" y1="17.2993" x2="25.3862" y2="41.8785" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid35" points="41.7,54.8 41.7,55.7 38.4,57.5 38.4,56.6 		"/>
+		
+			<linearGradient id="MIID_36_" gradientUnits="userSpaceOnUse" x1="71.3239" y1="19.2073" x2="26.4308" y2="43.7865" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid36" points="38.3,54.1 38.3,53.2 39.9,52.2 39.9,53.1 		"/>
+		
+			<linearGradient id="MIID_37_" gradientUnits="userSpaceOnUse" x1="69.8818" y1="16.5735" x2="24.9887" y2="41.1527" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid37" points="35.8,52.8 35.8,53.6 33,55.2 33,54.3 		"/>
+		
+			<linearGradient id="MIID_38_" gradientUnits="userSpaceOnUse" x1="72.6762" y1="21.6773" x2="27.7831" y2="46.2565" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid38" points="43.1,51.3 40.8,52.6 40.8,51.7 43.1,50.4 		"/>
+		
+			<linearGradient id="MIID_39_" gradientUnits="userSpaceOnUse" x1="71.2255" y1="19.0277" x2="26.3324" y2="43.6068" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid39" points="39.8,55 39.8,54.1 41.2,53.3 41.2,54.2 		"/>
+		
+			<linearGradient id="MIID_40_" gradientUnits="userSpaceOnUse" x1="71.7233" y1="19.9368" x2="26.8302" y2="44.5159" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid40" points="44.5,56 44.5,55.1 45.2,54.7 45.2,55.5 		"/>
+		
+			<linearGradient id="MIID_41_" gradientUnits="userSpaceOnUse" x1="69.8176" y1="16.456" x2="24.9245" y2="41.0351" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid41" points="38.9,54.6 38.9,55.5 36.1,57.1 36.1,56.2 		"/>
+		
+			<linearGradient id="MIID_42_" gradientUnits="userSpaceOnUse" x1="72.4354" y1="21.2374" x2="27.5422" y2="45.8165" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid42" points="42.6,55.2 42.6,54.3 46.7,51.9 46.7,52.8 		"/>
+		
+			<linearGradient id="MIID_43_" gradientUnits="userSpaceOnUse" x1="69.7068" y1="16.2537" x2="24.8137" y2="40.8329" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid43" points="37.4,53.7 37.4,54.6 33.9,56.5 33.9,55.7 		"/>
+		
+			<linearGradient id="MIID_44_" gradientUnits="userSpaceOnUse" x1="71.2783" y1="19.1242" x2="26.3852" y2="43.7033" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid44" points="38.1,52.3 36.6,53.1 36.6,52.3 38.1,51.5 		"/>
+		
+			<linearGradient id="MIID_45_" gradientUnits="userSpaceOnUse" x1="75.4691" y1="26.7785" x2="30.576" y2="51.3576" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid45" points="46,48.8 49.7,46.6 49.7,47.4 46,49.6 		"/>
+		
+			<linearGradient id="MIID_46_" gradientUnits="userSpaceOnUse" x1="75.0189" y1="25.9562" x2="30.1257" y2="50.5353" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid46" points="42.4,49.9 42.4,49 48.3,45.7 48.3,46.5 		"/>
+		
+			<linearGradient id="MIID_47_" gradientUnits="userSpaceOnUse" x1="74.546" y1="25.0923" x2="29.6528" y2="49.6714" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid47" points="46.8,50.1 48.2,49.3 48.2,50.1 46.8,50.9 		"/>
+		
+			<linearGradient id="MIID_48_" gradientUnits="userSpaceOnUse" x1="75.0307" y1="25.9777" x2="30.1376" y2="50.5569" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid48" points="47.6,51.4 52.7,48.5 52.7,49.4 47.6,52.3 		"/>
+		
+			<linearGradient id="MIID_49_" gradientUnits="userSpaceOnUse" x1="72.8867" y1="22.0617" x2="27.9936" y2="46.6409" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid49" points="42.1,52.8 46,50.6 46,51.4 42.1,53.7 		"/>
+		
+			<linearGradient id="MIID_50_" gradientUnits="userSpaceOnUse" x1="73.064" y1="22.3857" x2="28.1709" y2="46.9648" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid50" points="46.1,55 46.1,54.2 49.2,52.4 49.2,53.2 		"/>
+		
+			<linearGradient id="MIID_51_" gradientUnits="userSpaceOnUse" x1="73.8866" y1="23.8881" x2="28.9935" y2="48.4673" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid51" points="45.1,50.1 44,50.8 44,49.9 45.1,49.3 		"/>
+		
+			<linearGradient id="MIID_52_" gradientUnits="userSpaceOnUse" x1="77.1193" y1="29.7925" x2="32.2262" y2="54.3717" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid52" points="49.1,45.3 50.5,44.4 50.5,45.3 49.1,46.1 		"/>
+		
+			<linearGradient id="MIID_53_" gradientUnits="userSpaceOnUse" x1="76.3164" y1="28.326" x2="31.4233" y2="52.9052" gradientTransform="matrix(1 0 0 -1 0 90)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#C2C7D7"/>
+		</linearGradient>
+		<polygon class="miid53" points="49.3,48.7 53.2,46.4 53.2,47.3 49.3,49.5 		"/>
+		<g>
+			
+				<linearGradient id="MIID_54_" gradientUnits="userSpaceOnUse" x1="79.7636" y1="34.6222" x2="34.8705" y2="59.2014" gradientTransform="matrix(1 0 0 -1 0 90)">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#C2C7D7"/>
+			</linearGradient>
+			<polygon class="miid54" points="41.9,30.8 35.7,34.3 35.7,35.1 41.9,31.6 			"/>
+			
+				<linearGradient id="MIID_55_" gradientUnits="userSpaceOnUse" x1="82.6352" y1="39.8672" x2="37.7421" y2="64.4464" gradientTransform="matrix(1 0 0 -1 0 90)">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#C2C7D7"/>
+			</linearGradient>
+			<polygon class="miid55" points="42.6,30.4 42.6,31.3 47.3,28.6 47.3,27.7 			"/>
+		</g>
+		<g>
+			
+				<linearGradient id="MIID_56_" gradientUnits="userSpaceOnUse" x1="80.4043" y1="35.7925" x2="35.5112" y2="60.3717" gradientTransform="matrix(1 0 0 -1 0 90)">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#C2C7D7"/>
+			</linearGradient>
+			<polygon class="miid56" points="40.2,35.1 44.6,32.6 44.6,31.7 40.2,34.2 			"/>
+			
+				<linearGradient id="MIID_57_" gradientUnits="userSpaceOnUse" x1="82.0866" y1="38.8651" x2="37.1934" y2="63.4442" gradientTransform="matrix(1 0 0 -1 0 90)">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#C2C7D7"/>
+			</linearGradient>
+			<polygon class="miid57" points="46.7,30.5 45.2,31.3 45.2,32.2 46.7,31.4 			"/>
+			
+				<linearGradient id="MIID_58_" gradientUnits="userSpaceOnUse" x1="83.6711" y1="41.7591" x2="38.778" y2="66.3382" gradientTransform="matrix(1 0 0 -1 0 90)">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#C2C7D7"/>
+			</linearGradient>
+			<polygon class="miid58" points="51.3,27.9 47.4,30.1 47.4,31 51.3,28.8 			"/>
+			
+				<linearGradient id="MIID_59_" gradientUnits="userSpaceOnUse" x1="87.1353" y1="48.0866" x2="42.2422" y2="72.6657" gradientTransform="matrix(1 0 0 -1 0 90)">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#C2C7D7"/>
+			</linearGradient>
+			<polygon class="miid59" points="55.7,25.4 55.7,26.3 57.7,25.1 57.7,24.2 			"/>
+			
+				<linearGradient id="MIID_60_" gradientUnits="userSpaceOnUse" x1="85.6065" y1="45.2942" x2="40.7134" y2="69.8733" gradientTransform="matrix(1 0 0 -1 0 90)">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#C2C7D7"/>
+			</linearGradient>
+			<polygon class="miid60" points="55,25.8 51.9,27.5 51.9,28.4 55,26.7 			"/>
+			
+				<linearGradient id="MIID_61_" gradientUnits="userSpaceOnUse" x1="78.16" y1="31.6932" x2="33.2668" y2="56.2724" gradientTransform="matrix(1 0 0 -1 0 90)">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#C2C7D7"/>
+			</linearGradient>
+			<polygon class="miid61" points="39.5,34.6 35.7,36.8 35.7,37.6 39.5,35.5 			"/>
+		</g>
+		<g class="miid62">
+			
+				<linearGradient id="MIID_62_" gradientUnits="userSpaceOnUse" x1="74.2056" y1="24.4707" x2="29.3125" y2="49.0499" gradientTransform="matrix(1 0 0 -1 0 90)">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#C2C7D7"/>
+			</linearGradient>
+			<polygon class="miid63" points="33,42.1 32.2,42.5 32.2,43.4 33,43 			"/>
+			
+				<linearGradient id="MIID_63_" gradientUnits="userSpaceOnUse" x1="76.1201" y1="27.9673" x2="31.2269" y2="52.5466" gradientTransform="matrix(1 0 0 -1 0 90)">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#C2C7D7"/>
+			</linearGradient>
+			<polygon class="miid64" points="33.7,41.7 33.7,42.6 39.7,39.2 39.7,38.3 			"/>
+		</g>
+	</g>
+	
+		<linearGradient id="MIID_64_" gradientUnits="userSpaceOnUse" x1="42.6693" y1="63.5682" x2="62.7182" y2="78.7013" gradientTransform="matrix(1 0 0 -1 0 90)">
+		<stop  offset="0" style="stop-color:#C2C7D7"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<polygon class="miid65" points="26,37.3 63,15.9 63,12.8 26,34.2 	"/>
+</g>
+<g id="envelopeFront">
+	
+		<radialGradient id="MIID_65_" cx="36.4883" cy="49.1896" r="19.7956" gradientTransform="matrix(1 0 0 -1 0 90)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="6.562275e-02" style="stop-color:#D8D8D8"/>
+		<stop  offset="0.1615" style="stop-color:#A6A6A6"/>
+		<stop  offset="0.2622" style="stop-color:#797979"/>
+		<stop  offset="0.3658" style="stop-color:#545454"/>
+		<stop  offset="0.4731" style="stop-color:#353535"/>
+		<stop  offset="0.5852" style="stop-color:#1E1E1E"/>
+		<stop  offset="0.7042" style="stop-color:#0D0D0D"/>
+		<stop  offset="0.835" style="stop-color:#030303"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</radialGradient>
+	<path class="miid66" d="M20.1,47.5l23,9.5c1.1,0.5,2.7-0.5,3.8-2.2l22.5-35.3v-1.7l-23,36.1c-1.1,1.7-2.7,2.7-3.8,2.2l-23-9.5v34.6
+		c0,0.5,0.2,0.8,0.5,0.9C20.1,82.1,20.1,47.5,20.1,47.5z"/>
+	<path class="miid67" d="M42.6,54.7c1.1,0.5,2.7-0.5,3.8-2.2l23-34.6V51c0,0.8-0.6,1.8-1.3,2.2L20.9,80.4c-0.7,0.4-1.3,0.1-1.3-0.7
+		V46.6L42.6,54.7z"/>
+	
+		<linearGradient id="MIID_66_" gradientUnits="userSpaceOnUse" x1="4677.5571" y1="623.3482" x2="4679.3467" y2="663.9112" gradientTransform="matrix(-0.866 0.5 0 -1.1547 4096.3828 -1536.3262)">
+		<stop  offset="0.3039" style="stop-color:#E0363F"/>
+		<stop  offset="1" style="stop-color:#93171B"/>
+	</linearGradient>
+	<path class="miid68" d="M42.6,56.1c1.1,0.5,2.7-0.5,3.8-2.2l23-36.1v34.6c0,0.8-0.6,1.8-1.3,2.2L20.9,81.9c-0.7,0.4-1.3,0.1-1.3-0.7
+		V46.6L42.6,56.1z"/>
+	<path class="miid67" d="M68,54.5L68,54.5L46.3,44.4c-1-0.4-2.6,0.5-3.6,2.1L21,81.7l0,0L68,54.5z"/>
+	
+		<linearGradient id="MIID_67_" gradientUnits="userSpaceOnUse" x1="52.1489" y1="8.4987" x2="34.1968" y2="39.9519" gradientTransform="matrix(1 0 0 -1 0 90)">
+		<stop  offset="0.3039" style="stop-color:#E0363F"/>
+		<stop  offset="1" style="stop-color:#93171B"/>
+	</linearGradient>
+	<path class="miid69" d="M68,54.5L68,54.5l-21.7-9c-1-0.4-2.6,0.5-3.6,2.1L21,81.7l0,0L68,54.5z"/>
+</g>
+<g id="button">
+	<g>
+		<g>
+			
+				<linearGradient id="MIID_68_" gradientUnits="userSpaceOnUse" x1="48.7998" y1="44.1875" x2="40.2362" y2="33.7442" gradientTransform="matrix(1 0 0 -1 0 90)">
+				<stop  offset="0" style="stop-color:#947B00"/>
+				<stop  offset="1" style="stop-color:#FFC515"/>
+			</linearGradient>
+			<path class="miid70" d="M46.3,42.9c-2.8,1.6-5.1,5.6-5.1,8.9c0,3.3,2.3,4.6,5.2,2.9c2.8-1.6,5.1-5.6,5.1-8.9
+				C51.4,42.6,49.1,41.2,46.3,42.9"/>
+			
+				<linearGradient id="MIID_69_" gradientUnits="userSpaceOnUse" x1="48.8636" y1="44.1434" x2="40.3" y2="33.7001" gradientTransform="matrix(1 0 0 -1 0 90)">
+				<stop  offset="0" style="stop-color:#947B00"/>
+				<stop  offset="1" style="stop-color:#FFC515"/>
+			</linearGradient>
+			<path class="miid71" d="M46.4,42.9c-2.8,1.6-5.1,5.6-5.1,8.9c0,3.3,2.3,4.6,5.2,2.9c2.8-1.6,5.1-5.6,5.1-8.9
+				C51.5,42.6,49.2,41.3,46.4,42.9"/>
+			
+				<linearGradient id="MIID_70_" gradientUnits="userSpaceOnUse" x1="48.9167" y1="44.1082" x2="40.3531" y2="33.6648" gradientTransform="matrix(1 0 0 -1 0 90)">
+				<stop  offset="0" style="stop-color:#947B00"/>
+				<stop  offset="1" style="stop-color:#FFC515"/>
+			</linearGradient>
+			<path class="miid72" d="M46.4,43c-2.8,1.6-5.1,5.6-5.1,8.9c0,3.3,2.3,4.6,5.2,2.9c2.8-1.6,5.1-5.6,5.1-8.9
+				C51.6,42.7,49.3,41.4,46.4,43"/>
+			
+				<linearGradient id="MIID_71_" gradientUnits="userSpaceOnUse" x1="49.0296" y1="44.0239" x2="40.466" y2="33.5805" gradientTransform="matrix(1 0 0 -1 0 90)">
+				<stop  offset="0" style="stop-color:#947B00"/>
+				<stop  offset="1" style="stop-color:#FFC515"/>
+			</linearGradient>
+			<path class="miid73" d="M46.5,43.1c-2.8,1.6-5.1,5.6-5.1,8.9c0,3.3,2.3,4.6,5.2,2.9c2.8-1.6,5.1-5.6,5.1-8.9
+				C51.7,42.7,49.4,41.4,46.5,43.1"/>
+			
+				<linearGradient id="MIID_72_" gradientUnits="userSpaceOnUse" x1="49.0935" y1="43.9799" x2="40.5299" y2="33.5365" gradientTransform="matrix(1 0 0 -1 0 90)">
+				<stop  offset="0" style="stop-color:#947B00"/>
+				<stop  offset="1" style="stop-color:#FFC515"/>
+			</linearGradient>
+			<path class="miid74" d="M46.6,43.1c-2.8,1.6-5.1,5.6-5.1,8.9c0,3.3,2.3,4.6,5.2,2.9c2.8-1.6,5.1-5.6,5.1-8.9
+				C51.8,42.8,49.5,41.5,46.6,43.1"/>
+			
+				<linearGradient id="MIID_73_" gradientUnits="userSpaceOnUse" x1="49.2064" y1="43.8956" x2="40.6428" y2="33.4522" gradientTransform="matrix(1 0 0 -1 0 90)">
+				<stop  offset="0" style="stop-color:#947B00"/>
+				<stop  offset="1" style="stop-color:#FFC515"/>
+			</linearGradient>
+			<path class="miid75" d="M46.7,43.2c-2.8,1.6-5.1,5.6-5.1,8.9s2.3,4.6,5.2,2.9c2.8-1.6,5.1-5.6,5.1-8.9
+				C51.9,42.9,49.5,41.5,46.7,43.2"/>
+			
+				<linearGradient id="MIID_74_" gradientUnits="userSpaceOnUse" x1="49.2703" y1="43.8516" x2="40.7067" y2="33.4082" gradientTransform="matrix(1 0 0 -1 0 90)">
+				<stop  offset="0" style="stop-color:#947B00"/>
+				<stop  offset="1" style="stop-color:#FFC515"/>
+			</linearGradient>
+			<path class="miid76" d="M46.8,43.2c-2.8,1.6-5.1,5.6-5.1,8.9s2.3,4.6,5.2,2.9c2.8-1.6,5.1-5.6,5.1-8.9
+				C51.9,42.9,49.6,41.6,46.8,43.2"/>
+			
+				<linearGradient id="MIID_75_" gradientUnits="userSpaceOnUse" x1="49.3832" y1="43.7672" x2="40.8196" y2="33.3239" gradientTransform="matrix(1 0 0 -1 0 90)">
+				<stop  offset="0" style="stop-color:#947B00"/>
+				<stop  offset="1" style="stop-color:#FFC515"/>
+			</linearGradient>
+			<path class="miid77" d="M46.9,43.3c-2.8,1.6-5.1,5.6-5.1,8.9s2.3,4.6,5.2,2.9c2.8-1.6,5.1-5.6,5.1-8.9C52,43,49.7,41.7,46.9,43.3"
+				/>
+			
+				<linearGradient id="MIID_76_" gradientUnits="userSpaceOnUse" x1="49.4363" y1="43.732" x2="40.8727" y2="33.2887" gradientTransform="matrix(1 0 0 -1 0 90)">
+				<stop  offset="0" style="stop-color:#947B00"/>
+				<stop  offset="1" style="stop-color:#FFC515"/>
+			</linearGradient>
+			<path class="miid78" d="M46.9,43.4c-2.8,1.6-5.1,5.6-5.1,8.9c0,3.3,2.3,4.6,5.2,2.9c2.8-1.6,5.1-5.6,5.1-8.9
+				C52.1,43,49.8,41.7,46.9,43.4"/>
+		</g>
+		<g>
+			
+				<linearGradient id="MIID_77_" gradientUnits="userSpaceOnUse" x1="45.312" y1="37.4414" x2="49.6099" y2="46.0797" gradientTransform="matrix(1 0 0 -1 0 90)">
+				<stop  offset="2.737429e-02" style="stop-color:#C09A09"/>
+				<stop  offset="1" style="stop-color:#FFC515"/>
+			</linearGradient>
+			<path class="miid79" d="M52.1,46.3v0.2c-0.1,3.2-2.4,7.1-5.1,8.7c-0.8,0.4-1.5,0.7-2.2,0.7c-1.8,0.1-3-1.3-3-3.6
+				c0-3.3,2.3-7.3,5.1-8.9C49.8,41.7,52.1,43,52.1,46.3z"/>
+		</g>
+		<g class="miid80">
+			
+				<linearGradient id="MIID_78_" gradientUnits="userSpaceOnUse" x1="46.8593" y1="40.523" x2="53.9444" y2="46.3315" gradientTransform="matrix(1 0 0 -1 0 90)">
+				<stop  offset="0" style="stop-color:#947B00"/>
+				<stop  offset="1" style="stop-color:#FFC515"/>
+			</linearGradient>
+			<path class="miid81" d="M51.4,46.8V47c-0.1,2.8-2,6.1-4.4,7.5c-0.7,0.4-1.3,0.6-1.9,0.6c-1.5,0.1-2.6-1.1-2.6-3.1
+				c0-2.8,2-6.3,4.4-7.7C49.4,42.9,51.4,44,51.4,46.8z"/>
+		</g>
+	</g>
+	<g class="miid82">
+		<path class="miid1" d="M47.1,45.2c-0.1,0-0.2,0.1-0.2,0.2c-0.2,0.2-0.4,0.4-0.6,0.7c-0.8,1.4-1.6,2.8-2.4,4.2
+			c-0.1,0.2-0.2,0.4-0.3,0.6c-0.1,0.3-0.1,0.6-0.1,0.8c0.1,0.2,0.2,0.4,0.4,0.5c0.8,0.5,1.6,0.9,2.4,1.4c0.1,0,0.1,0.1,0.2,0.1
+			c0.2,0.1,0.4,0,0.6-0.1l0,0c0.3-0.2,0.5-0.4,0.7-0.8c0.2-0.3,0.4-0.6,0.5-0.9l0,0c-0.3,0.2-0.5,0.4-0.8,0.6
+			c-1,0.6-1.8,0.5-2.3-0.1c-0.6-0.8-0.6-2.2,0.1-3.7c0.5-1,1.3-2,2.2-2.5c0.4-0.2,0.7-0.3,1.1-0.4l0,0c-0.3-0.2-0.5-0.3-0.8-0.5
+			c-0.1-0.1-0.2-0.1-0.3-0.1C47.4,45.1,47.2,45.2,47.1,45.2"/>
+		<path class="miid1" d="M49.3,45.9L49.3,45.9c0.1,0.5,0.2,0.8,0.2,1.3c0,0.6-0.3,1.2-0.8,1.7c-0.3,0.3-0.6,0.5-0.9,0.7l0,0
+			c-0.5,0.3-1,0.5-1.5,0.6c-0.2,0.1-0.4,0.1-0.6,0.2l0,0c0.1,0,0.1,0,0.2,0.1c0.8,0.2,1.6,0.1,2.6-0.5c0.1,0,0.2-0.1,0.2-0.1
+			c0.4-0.2,0.7-0.6,1.1-1c0.5-0.7,0.7-1.4,0.6-2c-0.1-0.4-0.4-0.7-0.7-0.9C49.4,45.9,49.3,45.9,49.3,45.9"/>
+	</g>
+</g>
+</svg>
+
+
+
+			</div>
+			<br>
+			<h3 class="txt-center">You've signed up for our newsletter!</h3>
+			<p class="txt-center">Thank you for joining us and stay tuned for our awesome deals!</p>
+			<div class="back-btn-div"><a class="back-btn hover-area" href="https://ezytronic.com.my/">GO BACK</a></div>
+		</div>
+	 
+<footer>
+	<?php include 'newsletter-footer.php';?>
+</footer>
+
+
+<!-- JS Files Linking -->
+	<?php include 'js-linked.php';?>
+	<?php include 'js-linked-hori.php';?>
+  </body>
+</html>

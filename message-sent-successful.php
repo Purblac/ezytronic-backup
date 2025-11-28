@@ -1,0 +1,387 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSS Link files-->
+    <?php include 'css-linked.php';?>
+    <title>Thank You | Ezytronic - Scale up every business with IT Solutions & Services</title>
+	
+	<!-- Analytics code -->
+    <?php include 'performance-tracking.php';?>
+	
+	<style>
+	
+	
+	g#success-iso-icon {
+		animation: fadeUp 1.6s ease;
+	}	
+	
+	g#send-red-icon {
+		animation: fadeUp 0.5s ease;
+	}
+	</style>
+	
+  </head>
+  
+  <body>
+
+	<!-- Preloader & Cursor-->
+		<?php include 'mouse-cursor.php';?>
+		
+	<!-- NavBar -->
+	<header class="site-header sticky-top py-1">
+	<?php include 'navigation-bar-gen.php';?>
+	</header>
+	<!-- Nav End -->
+	 
+	<!-- Content Start-->
+		<div class="container-fluid full-sc thankyou-sec">
+			<div class="thankyou-icon">
+				<svg version="1.1" id="send-plane" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="325px" height="325px" x="0px" y="0px"
+	 viewBox="0 0 89 89" style="enable-background:new 0 0 89 89;" xml:space="preserve" aria-hidden="true">
+<style type="text/css">
+	.sdid0{fill:url(#SENDID_1_);}
+	.sdid1{fill:url(#SENDID_2_);}
+	.sdid2{fill:url(#SENDID_3_);}
+	.sdid3{fill:url(#SENDID_4_);}
+	.sdid4{fill:url(#SENDID_5_);}
+	.sdid5{fill:url(#SENDID_6_);}
+	.sdid6{fill:url(#SENDID_7_);}
+	.sdid7{fill:url(#SENDID_8_);}
+	.sdid8{fill:url(#SENDID_9_);}
+	.sdid9{fill:url(#SENDID_10_);}
+	.sdid10{fill:url(#SENDID_11_);}
+	.sdid11{fill:url(#SENDID_12_);}
+	.sdid12{fill:url(#SENDID_13_);}
+	.sdid13{fill:url(#SENDID_14_);}
+	.sdid14{fill:url(#SENDID_15_);}
+	.sdid15{fill:url(#SENDID_16_);}
+	.sdid16{fill:url(#SENDID_17_);}
+	.sdid17{fill:url(#SENDID_18_);}
+	.sdid18{fill:url(#SENDID_19_);}
+	.sdid19{fill:url(#SENDID_20_);}
+	.sdid20{fill:url(#SENDID_21_);}
+	.sdid21{fill:url(#SENDID_22_);}
+	.sdid22{fill:url(#SENDID_23_);}
+	.sdid23{fill:url(#SENDID_24_);}
+	.sdid24{fill:url(#SENDID_25_);}
+	.sdid25{fill:url(#SENDID_26_);}
+	.sdid26{fill:url(#SENDID_27_);}
+	.sdid27{fill:url(#SENDID_28_);}
+	.sdid28{fill:url(#SENDID_29_);}
+	.sdid29{fill:url(#SENDID_30_);}
+	.sdid30{fill:url(#SENDID_31_);}
+	.sdid31{fill:url(#SENDID_32_);}
+	.sdid32{fill:url(#SENDID_33_);}
+	.sdid33{fill:url(#SENDID_34_);}
+	.sdid34{fill:url(#SENDID_35_);}
+	.sdid35{fill:#FFFFFF;}
+	.sdid36{opacity:0.55;}
+</style>
+<g id="send-red-icon">
+	<g>
+		<linearGradient id="SENDID_1_" gradientUnits="userSpaceOnUse" x1="58.838" y1="70.2322" x2="50.3693" y2="40.4348">
+			<stop  offset="3.535350e-02" style="stop-color:#FFA98C"/>
+			<stop  offset="0.3169" style="stop-color:#FFB892"/>
+			<stop  offset="0.8601" style="stop-color:#FEE1A3"/>
+			<stop  offset="1" style="stop-color:#FEECA8"/>
+		</linearGradient>
+		<polygon class="sdid0" points="80.7,33 23.4,60 28.9,77.5 		"/>
+		<linearGradient id="SENDID_2_" gradientUnits="userSpaceOnUse" x1="27.6491" y1="67.7941" x2="66.7047" y2="43.5026">
+			<stop  offset="0" style="stop-color:#E0363F"/>
+			<stop  offset="0.2358" style="stop-color:#93171B"/>
+			<stop  offset="0.6307" style="stop-color:#93171B"/>
+			<stop  offset="1" style="stop-color:#720714"/>
+		</linearGradient>
+		<polygon class="sdid1" points="80.7,33 23.4,60 28.9,77.5 		"/>
+		<linearGradient id="SENDID_3_" gradientUnits="userSpaceOnUse" x1="8.2597" y1="46.827" x2="80.7403" y2="46.827">
+			<stop  offset="0.1793" style="stop-color:#EA2F2F"/>
+			<stop  offset="0.3039" style="stop-color:#E0363F"/>
+			<stop  offset="1" style="stop-color:#93171B"/>
+		</linearGradient>
+		<polygon class="sdid2" points="80.7,33 23.4,60 13.9,60.6 8.3,55.4 		"/>
+		<linearGradient id="SENDID_4_" gradientUnits="userSpaceOnUse" x1="30.4034" y1="58.6205" x2="54.8685" y2="55.2487">
+			<stop  offset="3.535350e-02" style="stop-color:#FFA98C"/>
+			<stop  offset="0.3169" style="stop-color:#FFB892"/>
+			<stop  offset="0.8601" style="stop-color:#FEE1A3"/>
+			<stop  offset="1" style="stop-color:#FEECA8"/>
+		</linearGradient>
+		<polygon class="sdid3" points="80.7,33 34.3,66.3 28.9,77.5 		"/>
+		<linearGradient id="SENDID_5_" gradientUnits="userSpaceOnUse" x1="43.3946" y1="66.3944" x2="37.2113" y2="73.7134">
+			<stop  offset="0" style="stop-color:#E0363F"/>
+			<stop  offset="0.2358" style="stop-color:#93171B"/>
+			<stop  offset="0.6307" style="stop-color:#93171B"/>
+			<stop  offset="1" style="stop-color:#720714"/>
+		</linearGradient>
+		<polygon class="sdid4" points="80.7,33 34.3,66.3 28.9,77.5 		"/>
+		<linearGradient id="SENDID_6_" gradientUnits="userSpaceOnUse" x1="34.3193" y1="55.2696" x2="80.7403" y2="55.2696">
+			<stop  offset="0.1793" style="stop-color:#EA2F2F"/>
+			<stop  offset="0.3039" style="stop-color:#E0363F"/>
+			<stop  offset="1" style="stop-color:#93171B"/>
+		</linearGradient>
+		<polygon class="sdid5" points="80.7,33 34.3,66.3 41.6,74.3 50.4,77.5 		"/>
+	</g>
+</g>
+<g id="success-iso-icon">
+	<g>
+		<linearGradient id="SENDID_7_" gradientUnits="userSpaceOnUse" x1="47.9817" y1="18.5947" x2="31.9684" y2="38.1232">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid6" d="M43.3,13.2c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C53,12.6,48.6,10.1,43.3,13.2"/>
+		<linearGradient id="SENDID_8_" gradientUnits="userSpaceOnUse" x1="48.07" y1="18.6388" x2="32.0566" y2="38.1673">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid7" d="M43.4,13.2c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C53.1,12.6,48.7,10.1,43.4,13.2"/>
+		<linearGradient id="SENDID_9_" gradientUnits="userSpaceOnUse" x1="48.1582" y1="18.6829" x2="32.1449" y2="38.2114">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid8" d="M43.5,13.2c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C53.2,12.6,48.8,10.2,43.5,13.2"/>
+		<linearGradient id="SENDID_10_" gradientUnits="userSpaceOnUse" x1="48.2465" y1="18.7271" x2="32.2331" y2="38.2556">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid9" d="M43.6,13.3C38.3,16.4,34,23.8,34,29.9c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C53.2,12.7,48.9,10.2,43.6,13.3"/>
+		<linearGradient id="SENDID_11_" gradientUnits="userSpaceOnUse" x1="48.3347" y1="18.7712" x2="32.3214" y2="38.2997">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid10" d="M43.7,13.3C38.4,16.4,34,23.9,34.1,30c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C53.3,12.7,49,10.3,43.7,13.3"/>
+		<linearGradient id="SENDID_12_" gradientUnits="userSpaceOnUse" x1="48.423" y1="18.8153" x2="32.4096" y2="38.3438">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid11" d="M43.8,13.4c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C53.4,12.8,49.1,10.3,43.8,13.4"/>
+		<linearGradient id="SENDID_13_" gradientUnits="userSpaceOnUse" x1="48.5113" y1="18.8594" x2="32.4979" y2="38.3879">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid12" d="M43.9,13.4c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C53.5,12.8,49.2,10.4,43.9,13.4"/>
+		<linearGradient id="SENDID_14_" gradientUnits="userSpaceOnUse" x1="48.5995" y1="18.9036" x2="32.5861" y2="38.4321">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid13" d="M43.9,13.5c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C53.6,12.9,49.3,10.4,43.9,13.5"/>
+		<linearGradient id="SENDID_15_" gradientUnits="userSpaceOnUse" x1="48.6878" y1="18.9477" x2="32.6744" y2="38.4762">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid14" d="M44,13.5c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C53.7,12.9,49.4,10.4,44,13.5"/>
+		<linearGradient id="SENDID_16_" gradientUnits="userSpaceOnUse" x1="48.776" y1="18.9918" x2="32.7626" y2="38.5203">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid15" d="M44.1,13.6c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C53.8,13,49.4,10.5,44.1,13.6"/>
+		<linearGradient id="SENDID_17_" gradientUnits="userSpaceOnUse" x1="48.8643" y1="19.0359" x2="32.8509" y2="38.5644">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid16" d="M44.2,13.6c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C53.9,13,49.5,10.5,44.2,13.6"/>
+		<linearGradient id="SENDID_18_" gradientUnits="userSpaceOnUse" x1="48.9525" y1="19.0801" x2="32.9392" y2="38.6086">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid17" d="M44.3,13.6c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C53.9,13,49.6,10.6,44.3,13.6"/>
+		<linearGradient id="SENDID_19_" gradientUnits="userSpaceOnUse" x1="49.0408" y1="19.1242" x2="33.0274" y2="38.6527">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid18" d="M44.4,13.7c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C54,13.1,49.7,10.6,44.4,13.7"/>
+		<linearGradient id="SENDID_20_" gradientUnits="userSpaceOnUse" x1="49.129" y1="19.1683" x2="33.1157" y2="38.6968">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid19" d="M44.5,13.7c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C54.1,13.1,49.8,10.7,44.5,13.7"/>
+		<linearGradient id="SENDID_21_" gradientUnits="userSpaceOnUse" x1="49.2173" y1="19.2125" x2="33.2039" y2="38.7409">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid20" d="M44.6,13.8c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C54.2,13.2,49.9,10.7,44.6,13.8"/>
+		<linearGradient id="SENDID_22_" gradientUnits="userSpaceOnUse" x1="49.3055" y1="19.2566" x2="33.2922" y2="38.7851">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid21" d="M44.6,13.8C39.3,16.9,35,24.3,35,30.5c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C54.3,13.2,50,10.8,44.6,13.8"/>
+		<linearGradient id="SENDID_23_" gradientUnits="userSpaceOnUse" x1="49.3938" y1="19.3007" x2="33.3804" y2="38.8292">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid22" d="M44.7,13.9c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C54.4,13.3,50.1,10.8,44.7,13.9"/>
+		<linearGradient id="SENDID_24_" gradientUnits="userSpaceOnUse" x1="49.482" y1="19.3448" x2="33.4687" y2="38.8733">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid23" d="M44.8,13.9c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C54.5,13.3,50.1,10.8,44.8,13.9"/>
+		<linearGradient id="SENDID_25_" gradientUnits="userSpaceOnUse" x1="49.5703" y1="19.389" x2="33.5569" y2="38.9175">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid24" d="M44.9,14c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C54.6,13.4,50.2,10.9,44.9,14"/>
+		<linearGradient id="SENDID_26_" gradientUnits="userSpaceOnUse" x1="49.6586" y1="19.4331" x2="33.6452" y2="38.9616">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid25" d="M45,14c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C54.7,13.4,50.3,10.9,45,14"/>
+		<linearGradient id="SENDID_27_" gradientUnits="userSpaceOnUse" x1="49.7468" y1="19.4772" x2="33.7334" y2="39.0057">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid26" d="M45.1,14c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C54.7,13.4,50.4,11,45.1,14"/>
+		<linearGradient id="SENDID_28_" gradientUnits="userSpaceOnUse" x1="49.8351" y1="19.5213" x2="33.8217" y2="39.0498">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid27" d="M45.2,14.1c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C54.8,13.5,50.5,11,45.2,14.1"/>
+		<linearGradient id="SENDID_29_" gradientUnits="userSpaceOnUse" x1="49.9233" y1="19.5655" x2="33.91" y2="39.094">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid28" d="M45.3,14.1c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C54.9,13.5,50.6,11.1,45.3,14.1"/>
+		<linearGradient id="SENDID_30_" gradientUnits="userSpaceOnUse" x1="50.0116" y1="19.6096" x2="33.9982" y2="39.1381">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid29" d="M45.4,14.2c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C55,13.6,50.7,11.1,45.4,14.2"/>
+		<linearGradient id="SENDID_31_" gradientUnits="userSpaceOnUse" x1="50.0998" y1="19.6537" x2="34.0865" y2="39.1822">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid30" d="M45.4,14.2c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C55.1,13.6,50.8,11.1,45.4,14.2"/>
+		<linearGradient id="SENDID_32_" gradientUnits="userSpaceOnUse" x1="50.1881" y1="19.6978" x2="34.1747" y2="39.2263">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid31" d="M45.5,14.3c-5.3,3.1-9.6,10.5-9.6,16.6c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C55.2,13.7,50.9,11.2,45.5,14.3"/>
+		<linearGradient id="SENDID_33_" gradientUnits="userSpaceOnUse" x1="50.2763" y1="19.742" x2="34.263" y2="39.2705">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid32" d="M45.6,14.3C40.3,17.4,36,24.8,36,31c0,6.1,4.3,8.6,9.7,5.5c5.3-3.1,9.6-10.5,9.6-16.6
+			C55.3,13.7,50.9,11.2,45.6,14.3"/>
+	</g>
+	<g>
+		<linearGradient id="SENDID_34_" gradientUnits="userSpaceOnUse" x1="53.3601" y1="14.3049" x2="35.6862" y2="34.5037">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid33" d="M55.3,19.8c0,0.1,0,0.3,0,0.4c-0.1-5.7-4.2-7.9-9.3-5c-5.1,3-9.2,10.1-9.2,16c0,4,2,6.4,4.9,6.5
+			C38.3,37.9,36,35.4,36,31c0-6.1,4.3-13.6,9.6-16.6C50.9,11.2,55.3,13.7,55.3,19.8z"/>
+		<linearGradient id="SENDID_35_" gradientUnits="userSpaceOnUse" x1="55.7608" y1="14.5408" x2="44.5994" y2="27.2967">
+			<stop  offset="0" style="stop-color:#179F94"/>
+			<stop  offset="1" style="stop-color:#4ADB9E"/>
+		</linearGradient>
+		<path class="sdid34" d="M55.3,20.3c-0.2,6-4.4,13.2-9.6,16.2c-1.4,0.8-2.8,1.2-4,1.3c-2.9-0.1-4.9-2.5-4.9-6.5c0-5.9,4.1-13,9.2-16
+			C51,12.3,55.1,14.6,55.3,20.3z"/>
+	</g>
+	<g>
+		<path class="sdid35" d="M49.8,18.8c-0.1,0.1-0.3,0.2-0.4,0.4l-5.3,9.1L41.9,27c-0.1-0.1-0.2,0-0.4,0c-0.1,0.1-0.3,0.2-0.4,0.4
+			l-0.9,1.5c-0.2,0.4-0.2,0.7,0,0.9l3.6,2.1c0.1,0,0.2,0,0.3,0s0.2-0.1,0.3-0.3L51,20.1c0.2-0.4,0.2-0.7,0-0.9l-0.9-0.5
+			C50.1,18.7,49.9,18.7,49.8,18.8"/>
+	</g>
+	<g class="sdid36">
+		
+			<image style="overflow:visible;" width="347" height="356" xlink:href="data:image/png;base64,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
+AABgpf8IMAB7TyYSfvVBHAAAAABJRU5ErkJggg==" transform="matrix(0.24 0 0 0.24 4.02 -17.4353)">
+		</image>
+	</g>
+</g>
+</svg>
+
+
+			</div>
+			<br>
+			<h3 class="txt-center">We have receive your message!</h3>
+			<p class="txt-center">Your message has been successfully submitted and our staff will contact you shortly.</p>
+			<div class="back-btn-div"><a class="back-btn hover-area" href="https://ezytronic.com.my/">GO BACK</a></div>
+		</div>
+	 
+<footer>
+	<?php include 'newsletter-footer.php';?>
+</footer>
+
+
+<!-- JS Files Linking -->
+	<?php include 'js-linked.php';?>
+	<?php include 'js-linked-hori.php';?>
+  </body>
+</html>
